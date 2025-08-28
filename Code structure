@@ -1,0 +1,7 @@
+main_menu() → Displays the menu & calls functions
+
+add_employee() → Adds a new employee
+
+view_employees() → Displays all employees
+
+search_employee() → Searches employee by ID
